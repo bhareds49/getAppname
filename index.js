@@ -2,6 +2,8 @@
 
 function getAppname(string) {
 
+    if (typeof string !== "string") throw new TypeError("getAppname requires a String!");
+
     let Appname; 
     //Regex for www. --- .com URLS
     const myRe = /\.(.*?)\./;

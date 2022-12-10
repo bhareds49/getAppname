@@ -22,8 +22,7 @@ getAppname("https://codesandbox.io")
 getAppname("something else")
 //=> "link"
 
-tiny(1337);
-//=> Uncaught TypeError: Tiny wants a string!
-//    at tiny (<anonymous>:2:41)
-//    at <anonymous>:1:1
+tiny(549);
+//=> Uncaught TypeError: getAppname requires a string!
+
 ```
