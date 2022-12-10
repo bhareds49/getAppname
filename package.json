@@ -1,6 +1,6 @@
 {
   "name": "@reddycupe/getappname",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Get the Appname from a website URL",
   "main": "index.js",
   "scripts": {
