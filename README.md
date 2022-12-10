@@ -11,7 +11,7 @@ $ npm i @reddycupe/getappname
 ## Usage
 
 ```js
-const getAppname = require('getAppname')
+const getAppname = require('@reddycupe/getAppname')
 
 getAppname("www.yahoo.com")
 //=> "yahoo"
