@@ -5,7 +5,7 @@ Get the Appname from a URL String
 ## Install
 
 ```
-$ npm i getappname
+$ npm i @reddycupe/getappname
 ```
 
 ## Usage
