@@ -1,4 +1,22 @@
 {
-    "name": "@reddycupe/getappname",
-    "version": "1.0.0"
+  "name": "getappname",
+  "version": "1.0.0",
+  "description": "Get the Appname from a website URL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhareds49/getAppname.git"
+  },
+  "keywords": [
+    "Appname"
+  ],
+  "author": "reddycupe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bhareds49/getAppname/issues"
+  },
+  "homepage": "https://github.com/bhareds49/getAppname#readme"
 }
