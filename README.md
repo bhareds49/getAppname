@@ -22,7 +22,7 @@ getAppname("https://codesandbox.io")
 getAppname("something else")
 //=> "link"
 
-tiny(549);
+getAppname(549);
 //=> Uncaught TypeError: getAppname requires a string!
 
 ```
